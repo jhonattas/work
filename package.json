@@ -1,6 +1,6 @@
 {
-    "title": "Resume",
-    "name": "startbootstrap-resume",
+    "title": "SouCriadorWelcome",
+    "name": "soucriador_welcome",
     "version": "4.1.1",
     "description": "Resume is a simple, yet elegant resume and CV theme for Bootstrap 4.",
     "keywords": [
@@ -11,19 +11,19 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/resume",
+    "homepage": "https://soucriador.com",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-resume/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://github.com/jhonattas/soucriador/issues",
+        "email": "contato@soucriador.com"
     },
     "license": "MIT",
-    "author": "Start Bootstrap",
+    "author": "Jhonattas Henrique",
     "contributors": [
-        "David Miller (http://davidmiller.io/)"
+        "Jhonattas Henrique (https://soucriador.com/)"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-resume.git"
+        "url": "https://github.com/jhonattas/soucriador.git"
     },
     "dependencies": {
         "bootstrap": "4.1.1",
