@@ -69,7 +69,7 @@
             <span class="text-primary">Henrique</span>
           </h1>
           <div class="subheading mb-5">São Paulo · SP · (19) 999-199-109 ·
-            <a href="mailto:jhonattas@soucriador.com" style="color: rgb(143, 14, 89) !important;">jhonattas@soucriador.com</a>
+            <a href="mailto:jhonattas@soucriador.com" style="color: #669966 !important;">jhonattas@soucriador.com</a>
           </div>
           <p class="mb-5" style="text-align: justify">Sou desenvolvedor de software desde 2011, já trabalhei com diversas tecnologias, e estou sempre aprendendo algo novo que possa me ajudar nesse caminho. 
             Apesar de Java ser minha linguagem do coração últimamente tenho utilizado muito NodeJs, e Ruby (on Rails) para meus projetos pessoais e freelancer. 

@@ -44,7 +44,7 @@ h2 {
 }
 
 .list-social-icons a:hover {
-  color: rgb(143, 14, 89) !important
+  color: #669966 !important
 }
 
 .list-social-icons a .fa-lg {
@@ -56,7 +56,7 @@ h2 {
 }
 
 .list-icons .list-inline-item i:hover {
-  color: rgb(143, 14, 89) !important
+  color: #669966 !important
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -135,7 +135,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 .text-primary {
-  color: rgb(143, 14, 89) !important;
+  color: #669966 !important;
 }
 
 a {
