@@ -82,6 +82,15 @@
           </p>
           <ul class="list-inline list-social-icons mb-0">
             <li class="list-inline-item">
+              <a href="https://instagram.com/jhonattash" target="_new">
+                <span class="fa-stack fa-lg">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </li>
+            
+            <li class="list-inline-item">
               <a href="https://facebook.com/jhoouh" target="_new">
                 <span class="fa-stack fa-lg">
                   <i class="fa fa-circle fa-stack-2x"></i>
@@ -89,6 +98,7 @@
                 </span>
               </a>
             </li>
+
             <li class="list-inline-item">
               <a href="https://twitter.com/jhoouh" target="_new">
                 <span class="fa-stack fa-lg">
